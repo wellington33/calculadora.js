@@ -19,11 +19,9 @@ Este é um projeto simples de calculadora desenvolvida com **HTML**, **CSS** e *
 
 ## 🛠 Como rodar o projeto
 
-1. Copie esse Link:
+1. Click no Link para ver o projeto :
    
    https://wellington33.github.io/calculadora.js/
-   
-3. Abra esse link no seu navegador para ver o projeto.
 
 📂 Estrutura de pastas
 pgsql
