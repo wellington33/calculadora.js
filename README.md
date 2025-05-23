@@ -19,10 +19,9 @@ Este é um projeto simples de calculadora desenvolvida com **HTML**, **CSS** e *
 
 ## 🛠 Como rodar o projeto
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/wellington33/calculadora.js.git
-Abra o arquivo index.html no seu navegador.
+1. Copie esse Link:
+   https://wellington33.github.io/calculadora.js/
+   Abra ess linl no seu navegador.
 
 📂 Estrutura de pastas
 pgsql
