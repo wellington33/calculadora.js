@@ -20,8 +20,10 @@ Este é um projeto simples de calculadora desenvolvida com **HTML**, **CSS** e *
 ## 🛠 Como rodar o projeto
 
 1. Copie esse Link:
+   
    https://wellington33.github.io/calculadora.js/
-   Abra ess linl no seu navegador.
+   
+3. Abra esse link no seu navegador para ver o projeto.
 
 📂 Estrutura de pastas
 pgsql
